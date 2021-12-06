@@ -1,2 +1,2 @@
 <?php include_once("
-web-kemangi-vs-blimbing-ai/templates/index.html"); ?>
+web-leaf-classification-ai-master/templates/index.html"); ?>
