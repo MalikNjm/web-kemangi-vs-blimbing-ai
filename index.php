@@ -1,2 +1,1 @@
-<?php include_once("
-web-leaf-classification-ai-master/templates/index.html"); ?>
+<?php include_once("web-leaf-classification-ai-master/templates/index.html"); ?>
