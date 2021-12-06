@@ -1,1 +1,1 @@
-<?php include_once("templates"); ?>
+<?php include_once("requirements.txt"); ?>
